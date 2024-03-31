@@ -13,6 +13,7 @@ With its intuitive design and user-friendly interface, Foodies empowers users to
 
 <h2>How to run the project: </h2>
 - clone the project
+- cd Foodies
 - cd into the client folder and run 'npm install'
 - cd into the server folder and run 'npm install'
 - run 'npm run dev' in the client folder
